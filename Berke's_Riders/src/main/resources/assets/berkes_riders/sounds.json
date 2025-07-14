@@ -1,0 +1,11 @@
+{
+  "where_no_one_goes": {
+    "subtitle": "subtitles.where_no_one_goes",
+    "sounds": [
+      {
+        "name": "berkes_riders:where_no_one_goes",
+        "stream": true
+      }
+    ]
+  }
+}

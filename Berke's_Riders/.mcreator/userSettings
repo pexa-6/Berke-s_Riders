@@ -1,0 +1,16 @@
+{
+  "workspacePanelIconSize": "TILES",
+  "workspacePanelSortType": "CREATED",
+  "workspacePanelSortAscending": true,
+  "projectBrowserSplitPos": 305,
+  "projectBrowserState": {
+    "expandedPaths": [
+      "[, Berke\u0027s Riders]",
+      "[, Berke\u0027s Riders, Resources (Gradle)]",
+      "[, Berke\u0027s Riders, Resources (Gradle), C:\\Users\\user\\Desktop\\My_mods\\Berke\u0027s_Riders\\src\\main\\resources\\assets]",
+      "[, Berke\u0027s Riders, Resources (Gradle), C:\\Users\\user\\Desktop\\My_mods\\Berke\u0027s_Riders\\src\\main\\resources\\assets, C:\\Users\\user\\Desktop\\My_mods\\Berke\u0027s_Riders\\src\\main\\resources\\assets\\berkes_riders]",
+      "[, Berke\u0027s Riders, Resources (Gradle), C:\\Users\\user\\Desktop\\My_mods\\Berke\u0027s_Riders\\src\\main\\resources\\assets, C:\\Users\\user\\Desktop\\My_mods\\Berke\u0027s_Riders\\src\\main\\resources\\assets\\berkes_riders, C:\\Users\\user\\Desktop\\My_mods\\Berke\u0027s_Riders\\src\\main\\resources\\assets\\berkes_riders\\textures]",
+      "[, Berke\u0027s Riders, Resources (Gradle), C:\\Users\\user\\Desktop\\My_mods\\Berke\u0027s_Riders\\src\\main\\resources\\assets, C:\\Users\\user\\Desktop\\My_mods\\Berke\u0027s_Riders\\src\\main\\resources\\assets\\berkes_riders, C:\\Users\\user\\Desktop\\My_mods\\Berke\u0027s_Riders\\src\\main\\resources\\assets\\berkes_riders\\textures, C:\\Users\\user\\Desktop\\My_mods\\Berke\u0027s_Riders\\src\\main\\resources\\assets\\berkes_riders\\textures\\item]"
+    ]
+  }
+}
