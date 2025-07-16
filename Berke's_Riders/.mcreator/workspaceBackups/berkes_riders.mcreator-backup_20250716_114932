@@ -1,0 +1,563 @@
+{
+  "mod_elements": [
+    {
+      "name": "WhereNoOneGoes",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "where_no_one_goes",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/berkesriders/item/WhereNoOneGoesItem.java",
+          "src/main/resources/assets/berkes_riders/models/item/where_no_one_goes.json"
+        ]
+      },
+      "path": "~/Items/Misc"
+    },
+    {
+      "name": "BerkesRidersTab",
+      "type": "tab",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "berkes_riders_tab",
+      "metadata": {
+        "files": []
+      },
+      "path": "~/GUI"
+    },
+    {
+      "name": "Dragonbone",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dragon_bone",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/berkes_riders/models/item/dragon_bone.json",
+          "src/main/java/net/mcreator/berkesriders/item/DragonboneItem.java"
+        ]
+      },
+      "path": "~/Items/Resources"
+    },
+    {
+      "name": "EmblemCreativeTab",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "emblem_creative_tab",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/berkes_riders/models/item/emblem_creative_tab.json",
+          "src/main/java/net/mcreator/berkesriders/item/EmblemCreativeTabItem.java"
+        ]
+      },
+      "path": "~/Items/Misc"
+    },
+    {
+      "name": "BlackDragonScale",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "black_dragon_scale",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/berkes_riders/models/item/black_dragon_scale.json",
+          "src/main/java/net/mcreator/berkesriders/item/BlackDragonScaleItem.java"
+        ]
+      },
+      "path": "~/Items/Resources"
+    },
+    {
+      "name": "WhiteDragonScale",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "white_dragon_scale",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/berkesriders/item/WhiteDragonScaleItem.java",
+          "src/main/resources/assets/berkes_riders/models/item/white_dragon_scale.json"
+        ]
+      },
+      "path": "~/Items/Resources"
+    },
+    {
+      "name": "RedDragonScale",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "red_dragon_scale",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/berkes_riders/models/item/red_dragon_scale.json",
+          "src/main/java/net/mcreator/berkesriders/item/RedDragonScaleItem.java"
+        ]
+      },
+      "path": "~/Items/Resources"
+    },
+    {
+      "name": "BlueDragonScale",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blue_dragon_scale",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/berkes_riders/models/item/blue_dragon_scale.json",
+          "src/main/java/net/mcreator/berkesriders/item/BlueDragonScaleItem.java"
+        ]
+      },
+      "path": "~/Items/Resources"
+    },
+    {
+      "name": "GreenDragonScale",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "green_dragon_scale",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/berkesriders/item/GreenDragonScaleItem.java",
+          "src/main/resources/assets/berkes_riders/models/item/green_dragon_scale.json"
+        ]
+      },
+      "path": "~/Items/Resources"
+    },
+    {
+      "name": "YellowDragonScale",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "yellow_dragon_scale",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/berkesriders/item/YellowDragonScaleItem.java",
+          "src/main/resources/assets/berkes_riders/models/item/yellow_dragon_scale.json"
+        ]
+      },
+      "path": "~/Items/Resources"
+    },
+    {
+      "name": "PurpleDragonScale",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "purple_dragon_scale",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/berkes_riders/models/item/purple_dragon_scale.json",
+          "src/main/java/net/mcreator/berkesriders/item/PurpleDragonScaleItem.java"
+        ]
+      },
+      "path": "~/Items/Resources"
+    },
+    {
+      "name": "BrownDragonScale",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "brown_dragon_scale",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/berkes_riders/models/item/brown_dragon_scale.json",
+          "src/main/java/net/mcreator/berkesriders/item/BrownDragonScaleItem.java"
+        ]
+      },
+      "path": "~/Items/Resources"
+    },
+    {
+      "name": "DragonTutorial",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dragon_tutorial",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/berkes_riders/models/item/dragon_tutorial.json",
+          "src/main/java/net/mcreator/berkesriders/item/DragonTutorialItem.java"
+        ]
+      },
+      "path": "~/Items/Misc"
+    },
+    {
+      "name": "DragonTutorialGUI1",
+      "type": "gui",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dragon_tutorial_gui_1",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/berkesriders/client/gui/DragonTutorialGUI1Screen.java",
+          "src/main/java/net/mcreator/berkesriders/world/inventory/DragonTutorialGUI1Menu.java",
+          "src/main/java/net/mcreator/berkesriders/network/DragonTutorialGUI1ButtonMessage.java"
+        ]
+      },
+      "path": "~/GUI"
+    },
+    {
+      "name": "DragonTutorialGUI2",
+      "type": "gui",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dragon_tutorial_gui_2",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/berkesriders/client/gui/DragonTutorialGUI2Screen.java",
+          "src/main/java/net/mcreator/berkesriders/world/inventory/DragonTutorialGUI2Menu.java",
+          "src/main/java/net/mcreator/berkesriders/network/DragonTutorialGUI2ButtonMessage.java"
+        ]
+      },
+      "path": "~/GUI"
+    },
+    {
+      "name": "DragonTutorialGUI3",
+      "type": "gui",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dragon_tutorial_gui_3",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/berkesriders/network/DragonTutorialGUI3ButtonMessage.java",
+          "src/main/java/net/mcreator/berkesriders/world/inventory/DragonTutorialGUI3Menu.java",
+          "src/main/java/net/mcreator/berkesriders/client/gui/DragonTutorialGUI3Screen.java"
+        ]
+      },
+      "path": "~/GUI"
+    },
+    {
+      "name": "PageForward1",
+      "type": "procedure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "page_forward_1",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/berkesriders/procedures/PageForward1Procedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/GUI"
+    },
+    {
+      "name": "PageForward2",
+      "type": "procedure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "page_forward_2",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/berkesriders/procedures/PageForward2Procedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/GUI"
+    },
+    {
+      "name": "PageBack2",
+      "type": "procedure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "page_back_2",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/berkesriders/procedures/PageBack2Procedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/GUI"
+    },
+    {
+      "name": "PageBack3",
+      "type": "procedure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "page_back_3",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/berkesriders/procedures/PageBack3Procedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/GUI"
+    },
+    {
+      "name": "DragonTutorialProcedures",
+      "type": "procedure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dragon_tutorial_procedures",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/berkesriders/procedures/DragonTutorialProceduresProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Items"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [
+    {
+      "name": "where_no_one_goes",
+      "files": [
+        "where_no_one_goes"
+      ],
+      "category": "record",
+      "subtitle": "Where No One Goes"
+    }
+  ],
+  "tag_elements": {
+    "ITEMS:minecraft:music_discs": [
+      "~CUSTOM:WhereNoOneGoes"
+    ]
+  },
+  "tab_element_order": {},
+  "language_map": {
+    "en_us": {
+      "subtitles.where_no_one_goes": "Where No One Goes",
+      "item.berkes_riders.dragon_tutorial": "Драконий учебник",
+      "item.berkes_riders.black_dragon_scale": "Чёрная чешуя дракона",
+      "item.berkes_riders.where_no_one_goes": "Where No One Goes",
+      "item_group.berkes_riders.berkes_riders_tab": "Berke\u0027s Riders",
+      "item.berkes_riders.brown_dragon_scale": "Коричневая чешуя дракона",
+      "item.berkes_riders.red_dragon_scale": "Красная чешуя дракона",
+      "item.berkes_riders.purple_dragon_scale": "Фиолетовая чешуя дракона",
+      "item.berkes_riders.blue_dragon_scale": "Синяя чешуя дракона",
+      "item.berkes_riders.white_dragon_scale": "Белая чешуя дракона",
+      "item.berkes_riders.yellow_dragon_scale": "Жёлтая чешуя дракона",
+      "item.berkes_riders.emblem_creative_tab": "Emblem Creative Tab",
+      "item.berkes_riders.where_no_one_goes.desc": "Jónsi \u0026 John Powell",
+      "item.berkes_riders.dragon_bone": "Драконья кость",
+      "item.berkes_riders.green_dragon_scale": "Зелёная чешуя дракона"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": [
+      {
+        "name": "Items",
+        "children": [
+          {
+            "name": "Weapons",
+            "children": []
+          },
+          {
+            "name": "Armors",
+            "children": []
+          },
+          {
+            "name": "Tools",
+            "children": []
+          },
+          {
+            "name": "Resources",
+            "children": []
+          },
+          {
+            "name": "Misc",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Blocks",
+        "children": []
+      },
+      {
+        "name": "Recipes",
+        "children": [
+          {
+            "name": "Weapons",
+            "children": []
+          },
+          {
+            "name": "Armors",
+            "children": []
+          },
+          {
+            "name": "Tools",
+            "children": []
+          },
+          {
+            "name": "Blocks",
+            "children": []
+          },
+          {
+            "name": "Food",
+            "children": []
+          },
+          {
+            "name": "Misc",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Entities",
+        "children": [
+          {
+            "name": "Dragons",
+            "children": []
+          },
+          {
+            "name": "NPCs",
+            "children": []
+          },
+          {
+            "name": "Animals",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "GUI",
+        "children": []
+      },
+      {
+        "name": "Procedures",
+        "children": []
+      },
+      {
+        "name": "Variables",
+        "children": []
+      },
+      {
+        "name": "Tags",
+        "children": []
+      },
+      {
+        "name": "Structures",
+        "children": []
+      },
+      {
+        "name": "Sounds",
+        "children": []
+      },
+      {
+        "name": "Advancements",
+        "children": []
+      }
+    ]
+  },
+  "workspaceSettings": {
+    "modid": "berkes_riders",
+    "modName": "Berke\u0027s Riders",
+    "version": "1.0.0",
+    "author": "user, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Not specified",
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.20.1",
+    "modElementsPackage": "net.mcreator.berkesriders"
+  },
+  "mcreatorVersion": 202400452410
+}

@@ -1,6 +1,0 @@
-{
-  "parent": "item/generated",
-  "textures": {
-    "layer0": "berkes_riders:item/night_fury_scales"
-  }
-}

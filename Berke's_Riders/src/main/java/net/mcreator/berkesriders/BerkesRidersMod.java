@@ -19,6 +19,7 @@ import net.minecraft.network.FriendlyByteBuf;
 
 import net.mcreator.berkesriders.init.BerkesRidersModTabs;
 import net.mcreator.berkesriders.init.BerkesRidersModSounds;
+import net.mcreator.berkesriders.init.BerkesRidersModMenus;
 import net.mcreator.berkesriders.init.BerkesRidersModItems;
 
 import java.util.function.Supplier;
@@ -45,6 +46,8 @@ public class BerkesRidersMod {
 		BerkesRidersModItems.REGISTRY.register(bus);
 
 		BerkesRidersModTabs.REGISTRY.register(bus);
+
+		BerkesRidersModMenus.REGISTRY.register(bus);
 
 		// Start of user code block mod init
 		// End of user code block mod init
