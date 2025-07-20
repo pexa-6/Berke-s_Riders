@@ -70,7 +70,7 @@ public class DragonTutorialGUI2Screen extends AbstractContainerScreen<DragonTuto
 	@Override
 	public void init() {
 		super.init();
-		imagebutton_arrow_left = new ImageButton(this.leftPos + 5, this.topPos + 146, 16, 16, 0, 0, 16, new ResourceLocation("berkes_riders:textures/screens/atlas/imagebutton_arrow_left.png"), 16, 32, e -> {
+		imagebutton_arrow_left = new ImageButton(this.leftPos + 2, this.topPos + 167, 18, 10, 0, 0, 10, new ResourceLocation("berkes_riders:textures/screens/atlas/imagebutton_arrow_left.png"), 18, 20, e -> {
 			if (true) {
 				BerkesRidersMod.PACKET_HANDLER.sendToServer(new DragonTutorialGUI2ButtonMessage(0, x, y, z));
 				DragonTutorialGUI2ButtonMessage.handleButtonAction(entity, 0, x, y, z);
@@ -78,7 +78,7 @@ public class DragonTutorialGUI2Screen extends AbstractContainerScreen<DragonTuto
 		});
 		guistate.put("button:imagebutton_arrow_left", imagebutton_arrow_left);
 		this.addRenderableWidget(imagebutton_arrow_left);
-		imagebutton_arrow_right = new ImageButton(this.leftPos + 232, this.topPos + 145, 16, 16, 0, 0, 16, new ResourceLocation("berkes_riders:textures/screens/atlas/imagebutton_arrow_right.png"), 16, 32, e -> {
+		imagebutton_arrow_right = new ImageButton(this.leftPos + 235, this.topPos + 167, 18, 10, 0, 0, 10, new ResourceLocation("berkes_riders:textures/screens/atlas/imagebutton_arrow_right.png"), 18, 20, e -> {
 			if (true) {
 				BerkesRidersMod.PACKET_HANDLER.sendToServer(new DragonTutorialGUI2ButtonMessage(1, x, y, z));
 				DragonTutorialGUI2ButtonMessage.handleButtonAction(entity, 1, x, y, z);

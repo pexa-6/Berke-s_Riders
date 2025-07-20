@@ -69,7 +69,7 @@ public class DragonTutorialGUI1Screen extends AbstractContainerScreen<DragonTuto
 	@Override
 	public void init() {
 		super.init();
-		imagebutton_arrow_right = new ImageButton(this.leftPos + 235, this.topPos + 145, 16, 16, 0, 0, 16, new ResourceLocation("berkes_riders:textures/screens/atlas/imagebutton_arrow_right.png"), 16, 32, e -> {
+		imagebutton_arrow_right = new ImageButton(this.leftPos + 235, this.topPos + 167, 18, 10, 0, 0, 10, new ResourceLocation("berkes_riders:textures/screens/atlas/imagebutton_arrow_right.png"), 18, 20, e -> {
 			if (true) {
 				BerkesRidersMod.PACKET_HANDLER.sendToServer(new DragonTutorialGUI1ButtonMessage(0, x, y, z));
 				DragonTutorialGUI1ButtonMessage.handleButtonAction(entity, 0, x, y, z);

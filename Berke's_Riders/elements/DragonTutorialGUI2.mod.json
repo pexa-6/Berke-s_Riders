@@ -14,13 +14,13 @@
         "type": "imagebutton",
         "data": {
           "name": "imagebutton_arrow_left",
-          "image": "arrow_left.png",
-          "hoveredImage": "",
+          "image": "back_arrow_1.png",
+          "hoveredImage": "back_arrow_2.png",
           "onClick": {
             "name": "PageBack2"
           },
-          "x": 91,
-          "y": 183,
+          "x": 88,
+          "y": 204,
           "locked": false
         }
       },
@@ -28,13 +28,13 @@
         "type": "imagebutton",
         "data": {
           "name": "imagebutton_arrow_right",
-          "image": "arrow_right.png",
-          "hoveredImage": "",
+          "image": "forward_arrow_1.png",
+          "hoveredImage": "forward_arrow_2.png",
           "onClick": {
             "name": "PageForward2"
           },
-          "x": 318,
-          "y": 182,
+          "x": 321,
+          "y": 204,
           "locked": false
         }
       }

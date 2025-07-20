@@ -3,11 +3,11 @@
   "_type": "item",
   "definition": {
     "renderType": 0,
-    "texture": "minecraft:written_book",
+    "texture": "dragon_manual",
     "customModelName": "Normal",
     "customProperties": {},
     "states": [],
-    "name": "Драконий учебник",
+    "name": "Dragon manual",
     "rarity": "RARE",
     "creativeTabs": [
       {

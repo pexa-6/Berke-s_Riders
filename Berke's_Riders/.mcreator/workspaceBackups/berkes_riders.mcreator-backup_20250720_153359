@@ -26,20 +26,6 @@
       "path": "~/GUI"
     },
     {
-      "name": "Dragonbone",
-      "type": "item",
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "dragon_bone",
-      "metadata": {
-        "files": [
-          "src/main/resources/assets/berkes_riders/models/item/dragon_bone.json",
-          "src/main/java/net/mcreator/berkesriders/item/DragonboneItem.java"
-        ]
-      },
-      "path": "~/Items/Resources"
-    },
-    {
       "name": "EmblemCreativeTab",
       "type": "item",
       "compiles": true,
@@ -164,20 +150,6 @@
         ]
       },
       "path": "~/Items/Resources"
-    },
-    {
-      "name": "DragonTutorial",
-      "type": "item",
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "dragon_tutorial",
-      "metadata": {
-        "files": [
-          "src/main/resources/assets/berkes_riders/models/item/dragon_tutorial.json",
-          "src/main/java/net/mcreator/berkesriders/item/DragonTutorialItem.java"
-        ]
-      },
-      "path": "~/Items/Misc"
     },
     {
       "name": "DragonTutorialGUI1",
@@ -397,7 +369,49 @@
           }
         ]
       },
-      "path": "~/Items"
+      "path": "~/Items/Misc"
+    },
+    {
+      "name": "DragonMeat",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dragon_meat",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/berkes_riders/models/item/dragon_meat.json",
+          "src/main/java/net/mcreator/berkesriders/item/DragonMeatItem.java"
+        ]
+      },
+      "path": "~/Items/Resources"
+    },
+    {
+      "name": "DragonBone",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dragon_bone",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/berkes_riders/models/item/dragon_bone.json",
+          "src/main/java/net/mcreator/berkesriders/item/DragonBoneItem.java"
+        ]
+      },
+      "path": "~/Items/Resources"
+    },
+    {
+      "name": "DragonManual",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dragon_manual",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/berkesriders/item/DragonManualItem.java",
+          "src/main/resources/assets/berkes_riders/models/item/dragon_manual.json"
+        ]
+      },
+      "path": "~/Items/Misc"
     }
   ],
   "variable_elements": [],
@@ -420,20 +434,21 @@
   "language_map": {
     "en_us": {
       "subtitles.where_no_one_goes": "Where No One Goes",
-      "item.berkes_riders.dragon_tutorial": "Драконий учебник",
       "item.berkes_riders.black_dragon_scale": "Чёрная чешуя дракона",
       "item.berkes_riders.where_no_one_goes": "Where No One Goes",
       "item_group.berkes_riders.berkes_riders_tab": "Berke\u0027s Riders",
       "item.berkes_riders.brown_dragon_scale": "Коричневая чешуя дракона",
       "item.berkes_riders.red_dragon_scale": "Красная чешуя дракона",
+      "item.berkes_riders.dragon_meat": "Драконья мясо",
       "item.berkes_riders.purple_dragon_scale": "Фиолетовая чешуя дракона",
       "item.berkes_riders.blue_dragon_scale": "Синяя чешуя дракона",
       "item.berkes_riders.white_dragon_scale": "Белая чешуя дракона",
       "item.berkes_riders.yellow_dragon_scale": "Жёлтая чешуя дракона",
       "item.berkes_riders.emblem_creative_tab": "Emblem Creative Tab",
       "item.berkes_riders.where_no_one_goes.desc": "Jónsi \u0026 John Powell",
+      "item.berkes_riders.green_dragon_scale": "Зелёная чешуя дракона",
       "item.berkes_riders.dragon_bone": "Драконья кость",
-      "item.berkes_riders.green_dragon_scale": "Зелёная чешуя дракона"
+      "item.berkes_riders.dragon_manual": "Драконий учебник"
     }
   },
   "foldersRoot": {

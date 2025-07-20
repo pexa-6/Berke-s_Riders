@@ -14,13 +14,13 @@
         "type": "imagebutton",
         "data": {
           "name": "imagebutton_arrow_left",
-          "image": "arrow_left.png",
-          "hoveredImage": "",
+          "image": "back_arrow_1.png",
+          "hoveredImage": "back_arrow_2.png",
           "onClick": {
             "name": "PageBack3"
           },
-          "x": 89,
-          "y": 182,
+          "x": 88,
+          "y": 204,
           "locked": false
         }
       }
