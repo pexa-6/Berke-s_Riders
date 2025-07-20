@@ -21,6 +21,12 @@ authors="user, MCreator"
     side="BOTH"
 
 
+[[dependencies.berkes_riders]]
+    modId="playeranimator"
+    mandatory=false
+    versionRange="[0,)"
+    ordering="NONE"
+    side="BOTH"
 
 
 # Start of user code block dependencies configuration

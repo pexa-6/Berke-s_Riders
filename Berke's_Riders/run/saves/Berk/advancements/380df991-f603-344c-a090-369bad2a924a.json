@@ -1,61 +1,61 @@
 {
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
-      "unlock_right_away": "2025-07-10 22:57:22 +0300"
+      "unlock_right_away": "2025-07-11 00:57:22 +0500"
     },
     "done": true
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:sparse_jungle": "2025-07-10 22:57:23 +0300"
+      "minecraft:sparse_jungle": "2025-07-11 00:57:23 +0500"
     },
     "done": false
   },
   "minecraft:recipes/decorations/chest": {
     "criteria": {
-      "has_lots_of_items": "2025-07-11 15:03:56 +0300"
+      "has_lots_of_items": "2025-07-11 17:03:56 +0500"
     },
     "done": true
   },
   "minecraft:recipes/misc/bone_meal": {
     "criteria": {
-      "has_bone": "2025-07-11 19:20:14 +0300"
+      "has_bone": "2025-07-11 21:20:14 +0500"
     },
     "done": true
   },
   "minecraft:recipes/misc/nether_brick": {
     "criteria": {
-      "has_netherrack": "2025-07-14 13:06:39 +0300"
+      "has_netherrack": "2025-07-14 15:06:39 +0500"
     },
     "done": true
   },
   "minecraft:recipes/decorations/glow_item_frame": {
     "criteria": {
-      "has_item_frame": "2025-07-20 15:33:28 +0300"
+      "has_item_frame": "2025-07-20 17:33:28 +0500"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/bookshelf": {
     "criteria": {
-      "has_book": "2025-07-20 16:22:40 +0300"
+      "has_book": "2025-07-20 18:22:40 +0500"
     },
     "done": true
   },
   "minecraft:recipes/redstone/lectern": {
     "criteria": {
-      "has_book": "2025-07-20 16:22:40 +0300"
+      "has_book": "2025-07-20 18:22:40 +0500"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/chiseled_bookshelf": {
     "criteria": {
-      "has_book": "2025-07-20 16:22:40 +0300"
+      "has_book": "2025-07-20 18:22:40 +0500"
     },
     "done": true
   },
   "minecraft:recipes/misc/writable_book": {
     "criteria": {
-      "has_book": "2025-07-20 16:22:40 +0300"
+      "has_book": "2025-07-20 18:22:40 +0500"
     },
     "done": true
   },

@@ -61,8 +61,8 @@
       "registry_name": "white_dragon_scale",
       "metadata": {
         "files": [
-          "src/main/java/net/mcreator/berkesriders/item/WhiteDragonScaleItem.java",
-          "src/main/resources/assets/berkes_riders/models/item/white_dragon_scale.json"
+          "src/main/resources/assets/berkes_riders/models/item/white_dragon_scale.json",
+          "src/main/java/net/mcreator/berkesriders/item/WhiteDragonScaleItem.java"
         ]
       },
       "path": "~/Items/Resources"
@@ -75,8 +75,8 @@
       "registry_name": "red_dragon_scale",
       "metadata": {
         "files": [
-          "src/main/resources/assets/berkes_riders/models/item/red_dragon_scale.json",
-          "src/main/java/net/mcreator/berkesriders/item/RedDragonScaleItem.java"
+          "src/main/java/net/mcreator/berkesriders/item/RedDragonScaleItem.java",
+          "src/main/resources/assets/berkes_riders/models/item/red_dragon_scale.json"
         ]
       },
       "path": "~/Items/Resources"
@@ -117,8 +117,8 @@
       "registry_name": "yellow_dragon_scale",
       "metadata": {
         "files": [
-          "src/main/java/net/mcreator/berkesriders/item/YellowDragonScaleItem.java",
-          "src/main/resources/assets/berkes_riders/models/item/yellow_dragon_scale.json"
+          "src/main/resources/assets/berkes_riders/models/item/yellow_dragon_scale.json",
+          "src/main/java/net/mcreator/berkesriders/item/YellowDragonScaleItem.java"
         ]
       },
       "path": "~/Items/Resources"
@@ -131,8 +131,8 @@
       "registry_name": "purple_dragon_scale",
       "metadata": {
         "files": [
-          "src/main/resources/assets/berkes_riders/models/item/purple_dragon_scale.json",
-          "src/main/java/net/mcreator/berkesriders/item/PurpleDragonScaleItem.java"
+          "src/main/java/net/mcreator/berkesriders/item/PurpleDragonScaleItem.java",
+          "src/main/resources/assets/berkes_riders/models/item/purple_dragon_scale.json"
         ]
       },
       "path": "~/Items/Resources"
@@ -145,8 +145,8 @@
       "registry_name": "brown_dragon_scale",
       "metadata": {
         "files": [
-          "src/main/resources/assets/berkes_riders/models/item/brown_dragon_scale.json",
-          "src/main/java/net/mcreator/berkesriders/item/BrownDragonScaleItem.java"
+          "src/main/java/net/mcreator/berkesriders/item/BrownDragonScaleItem.java",
+          "src/main/resources/assets/berkes_riders/models/item/brown_dragon_scale.json"
         ]
       },
       "path": "~/Items/Resources"
@@ -159,9 +159,9 @@
       "registry_name": "dragon_tutorial_gui_1",
       "metadata": {
         "files": [
+          "src/main/java/net/mcreator/berkesriders/network/DragonTutorialGUI1ButtonMessage.java",
           "src/main/java/net/mcreator/berkesriders/client/gui/DragonTutorialGUI1Screen.java",
-          "src/main/java/net/mcreator/berkesriders/world/inventory/DragonTutorialGUI1Menu.java",
-          "src/main/java/net/mcreator/berkesriders/network/DragonTutorialGUI1ButtonMessage.java"
+          "src/main/java/net/mcreator/berkesriders/world/inventory/DragonTutorialGUI1Menu.java"
         ]
       },
       "path": "~/GUI"
@@ -174,9 +174,9 @@
       "registry_name": "dragon_tutorial_gui_2",
       "metadata": {
         "files": [
+          "src/main/java/net/mcreator/berkesriders/network/DragonTutorialGUI2ButtonMessage.java",
           "src/main/java/net/mcreator/berkesriders/client/gui/DragonTutorialGUI2Screen.java",
-          "src/main/java/net/mcreator/berkesriders/world/inventory/DragonTutorialGUI2Menu.java",
-          "src/main/java/net/mcreator/berkesriders/network/DragonTutorialGUI2ButtonMessage.java"
+          "src/main/java/net/mcreator/berkesriders/world/inventory/DragonTutorialGUI2Menu.java"
         ]
       },
       "path": "~/GUI"
@@ -189,9 +189,9 @@
       "registry_name": "dragon_tutorial_gui_3",
       "metadata": {
         "files": [
-          "src/main/java/net/mcreator/berkesriders/network/DragonTutorialGUI3ButtonMessage.java",
+          "src/main/java/net/mcreator/berkesriders/client/gui/DragonTutorialGUI3Screen.java",
           "src/main/java/net/mcreator/berkesriders/world/inventory/DragonTutorialGUI3Menu.java",
-          "src/main/java/net/mcreator/berkesriders/client/gui/DragonTutorialGUI3Screen.java"
+          "src/main/java/net/mcreator/berkesriders/network/DragonTutorialGUI3ButtonMessage.java"
         ]
       },
       "path": "~/GUI"
@@ -393,8 +393,8 @@
       "registry_name": "dragon_bone",
       "metadata": {
         "files": [
-          "src/main/resources/assets/berkes_riders/models/item/dragon_bone.json",
-          "src/main/java/net/mcreator/berkesriders/item/DragonBoneItem.java"
+          "src/main/java/net/mcreator/berkesriders/item/DragonBoneItem.java",
+          "src/main/resources/assets/berkes_riders/models/item/dragon_bone.json"
         ]
       },
       "path": "~/Items/Resources"
@@ -407,11 +407,38 @@
       "registry_name": "dragon_manual",
       "metadata": {
         "files": [
-          "src/main/java/net/mcreator/berkesriders/item/DragonManualItem.java",
-          "src/main/resources/assets/berkes_riders/models/item/dragon_manual.json"
+          "src/main/resources/assets/berkes_riders/models/item/dragon_manual.json",
+          "src/main/java/net/mcreator/berkesriders/item/DragonManualItem.java"
         ]
       },
       "path": "~/Items/Misc"
+    },
+    {
+      "name": "SetupAnimations",
+      "type": "procedure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "setup_animations",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/berkesriders/procedures/SetupAnimationsProcedure.java"
+        ],
+        "dependencies": []
+      },
+      "path": "~/Procedures"
+    },
+    {
+      "name": "DragonTrain",
+      "type": "keybind",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dragon_train",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/berkesriders/network/DragonTrainMessage.java"
+        ]
+      },
+      "path": "~/Procedures"
     }
   ],
   "variable_elements": [],
@@ -444,6 +471,7 @@
       "item.berkes_riders.blue_dragon_scale": "Синяя чешуя дракона",
       "item.berkes_riders.white_dragon_scale": "Белая чешуя дракона",
       "item.berkes_riders.yellow_dragon_scale": "Жёлтая чешуя дракона",
+      "key.berkes_riders.dragon_train": "Dragon_Train",
       "item.berkes_riders.emblem_creative_tab": "Emblem Creative Tab",
       "item.berkes_riders.where_no_one_goes.desc": "Jónsi \u0026 John Powell",
       "item.berkes_riders.green_dragon_scale": "Зелёная чешуя дракона",
@@ -462,6 +490,7 @@
       "item.berkes_riders.blue_dragon_scale": "Blue Dragon Scale",
       "item.berkes_riders.white_dragon_scale": "White Dragon Scale",
       "item.berkes_riders.yellow_dragon_scale": "Yellow Dragon Scale",
+      "key.berkes_riders.dragon_train": "Dragon_Train",
       "item.berkes_riders.emblem_creative_tab": "Emblem Creative Tab",
       "item.berkes_riders.where_no_one_goes.desc": "Jónsi \u0026 John Powell",
       "item.berkes_riders.green_dragon_scale": "Green Dragon Scale",
@@ -588,8 +617,11 @@
     "requiredMods": [],
     "dependencies": [],
     "dependants": [],
-    "mcreatorDependencies": [],
+    "mcreatorDependencies": [
+      "playeranimator"
+    ],
     "currentGenerator": "forge-1.20.1",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
     "modElementsPackage": "net.mcreator.berkesriders"
   },
   "mcreatorVersion": 202400452410

@@ -1,0 +1,12 @@
+{
+  "_fv": 73,
+  "_type": "keybind",
+  "definition": {
+    "triggerKey": "X",
+    "keyBindingName": "Dragon_Train",
+    "keyBindingCategoryKey": "misc",
+    "onKeyPressed": {
+      "name": "X"
+    }
+  }
+}
